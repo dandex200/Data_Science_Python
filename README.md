@@ -11,3 +11,19 @@ Basic python scripts in a Juypter Lab Notebook.
   <li>Print an alphabetically-ordered list of the English words and their corresponding French translations</li>
   <li>Write a new function named translate() which accepts 3 parameters: a translation dictionary, a word to translate, and a default word. If the word is in the dictionary, the function should return the translated word. Otherwise, it should return the default word.</li>
 </ul>
+
+<h2>Lab 2 Overview</h2>
+<ul>
+  <li>Sort a list of random numbers</li>
+  <li>Read in floating point numbers from csv file lines and sum them</li>
+  <li>Reverse values from csv file and print them to new file</li>
+  <li>Read values from csv file and sort country's based on number of times they appeared in world cup.</li>
+</ul>
+
+<h2>Lab 3 Overview</h2>
+<ul>
+  <li>Overlap.py - Display overlap between two files</li>
+  <li>Select.py - Read in file and print out lines indicated by user in command line arguments</li>
+  <li>Select.py - Added additional measures for file not existing and invalid number specified.</li>
+  <li>Sample.py - Print N random lines from names.txt where N is entered by user in CLI</li>
+</ul>
