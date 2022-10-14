@@ -27,3 +27,9 @@ Basic python scripts in a Juypter Lab Notebook.
   <li>Select.py - Added additional measures for file not existing and invalid number specified.</li>
   <li>Sample.py - Print N random lines from names.txt where N is entered by user in CLI</li>
 </ul>
+
+<h2>Lab 4 Overview</h2>
+<ul>
+  <li>JSON PARSING: Download JSON File from Web > Parse and Print: Title & Movie Genres > Export dataset to CSV File</li>
+  <li>XML PARSING: Download XML file from Web > Parse and print contacts > Export data to CSV file > Serialise Data with Pickle and deseraliaze/print</li>
+</ul>
