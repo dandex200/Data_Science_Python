@@ -33,3 +33,20 @@ Basic python scripts in a Juypter Lab Notebook.
   <li>JSON PARSING: Download JSON File from Web > Parse and Print: Title & Movie Genres > Export dataset to CSV File</li>
   <li>XML PARSING: Download XML file from Web > Parse and print contacts > Export data to CSV file > Serialise Data with Pickle and deseraliaze/print</li>
 </ul>
+
+<h2>Lab 5 Overview</h2>
+<ul>
+  <li>Blank</li>
+</ul>
+
+<h2>Lab 6 Overview</h2>
+<ul>
+  <li>Blank</li>
+</ul>
+
+<h2>Lab 7 Overview</h2>
+<ul>
+  <li>Blank</li>
+</ul>
+
+
