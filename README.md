@@ -36,7 +36,8 @@ Basic python scripts in a Juypter Lab Notebook.
 
 <h2>Lab 5 Overview</h2>
 <ul>
-  <li>Blank</li>
+  <li>Load CSV into Pandas Dataframe then parse, sort, and display dataframe</li>
+  <li>Create New Columns in Dataframe and perform various algorithms on the values/columns.</li>
 </ul>
 
 <h2>Lab 6 Overview</h2>
