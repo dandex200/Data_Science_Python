@@ -42,7 +42,9 @@ Basic python scripts in a Juypter Lab Notebook.
 
 <h2>Lab 6 </h2>
 <ul>
-  <li>Blank</li>
+  <li>Parse and sort data from CSV from web with pandas</li>
+  <li>Display aspects of data in varying ratios/tables</li>
+  <li>Plot data from CSV with matplotlib</li>
 </ul>
 
 <h2>Lab 7 </h2>
