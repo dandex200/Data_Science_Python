@@ -1,0 +1,22 @@
+Country,Region,Population,Life Exp,Landlocked,Language
+Argentina,South America,43.59,75.77,No,Spanish
+Australia,Oceania,23.99,82.09,No,English
+Brazil,South America,200.4,73.12,No,Portuguese
+Canada,North America,35.99,80.99,No,English
+Chad,Africa,11.63,49.81,Yes,Arabic
+China,Asia,1357,74.87,No,Chinese
+Egypt,Africa,90.37,70.48,No,Arabic
+Germany,Europe,81.46,80.24,No,German
+Ireland,Europe,4.64,80.15,No,English
+Japan,Asia,126.26,84.36,No,Japanese
+Mexico,North America,127.58,75.05,No,Spanish
+New Zealand,Oceania,4.66,80.67,No,English
+Niger,Africa,18.05,55.13,Yes,French
+Nigeria,Africa,186.99,51.3,No,English
+Paraguay,South America,6.78,76.99,Yes,Spanish
+Portugal,Europe,10.29,80.68,No,Portuguese
+South Korea,Asia,51.71,83.23,No,Korean
+Spain,Europe,47.13,83.49,No,Spanish
+Switzerland,Europe,8.12,82.5,Yes,German
+United Kingdom,Europe,65.1,80.09,No,English
+United States,North America,321.07,78.51,No,English
