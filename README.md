@@ -49,7 +49,10 @@ Basic python scripts in a Juypter Lab Notebook.
 
 <h2>Lab 7 </h2>
 <ul>
-  <li>Blank</li>
+  <li>Request file from webpage, parse data with numpy</li>
+  <li>Organize data and identify values from data</li>
+  <li>Plot data with matplotlib</li>
+  <li>Export as edited CSV file</li>
 </ul>
 
 
