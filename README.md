@@ -55,7 +55,7 @@ Basic python scripts in a Juypter Lab Notebook.
   <li>Export as edited CSV file</li>
 </ul>
 
-h2>Assignment 1 </h2>
+<h2>Assignment 1 </h2>
 <ul>
   <li>Blank</li>
 </ul>
