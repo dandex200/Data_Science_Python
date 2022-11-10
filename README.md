@@ -60,3 +60,8 @@ Basic python scripts in a Juypter Lab Notebook.
   <li>Blank</li>
 </ul>
 
+<h2>Lab 8 </h2>
+<ul>
+  <li></li>
+</ul>
+
