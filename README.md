@@ -57,11 +57,13 @@ Basic python scripts in a Juypter Lab Notebook.
 
 <h2>Assignment 1 </h2>
 <ul>
-  <li>Blank</li>
+  <li>Created JSON file containing 50 movies from the OMDB (Open Movie Database) API</li>
+  <li>Parsed and analyzed data in many different ways.</li>
+  <li>Plotted multiple statistics</li>
 </ul>
 
 <h2>Lab 8 </h2>
 <ul>
-  <li></li>
+  <li>Parse and plot data from multiple CSV files</li>
 </ul>
 
