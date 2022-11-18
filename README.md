@@ -67,3 +67,10 @@ Basic python scripts in a Juypter Lab Notebook.
   <li>Parse and plot data from multiple CSV files</li>
 </ul>
 
+<h2>Lab 9 </h2>
+<ul>
+  <li>Download CSV file into Pandas Dataframe</li>
+  <li>Calculate correlations in the data</li>
+  <li>Apply a simple linear regression and plot the regression line of two different comparisons</li>
+</ul>
+
