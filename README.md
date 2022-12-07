@@ -74,3 +74,7 @@ Basic python scripts in a Juypter Lab Notebook.
   <li>Apply a simple linear regression and plot the regression line of two different comparisons</li>
 </ul>
 
+<h2>Assignment 2</h2>
+<ul>
+  <li>Blank</li>
+</ul>
