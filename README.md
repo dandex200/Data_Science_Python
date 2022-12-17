@@ -76,5 +76,7 @@ Basic python scripts in a Juypter Lab Notebook.
 
 <h2>Assignment 2</h2>
 <ul>
-  <li>Blank</li>
+  <li>Scrape data from table on website then apply pre-processing</li>
+  <li>Construct Time Series on Data and Perform Analysis</li>
+  <li>Perform more analysis on the data</li>
 </ul>
